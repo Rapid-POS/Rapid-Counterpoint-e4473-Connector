@@ -1,6 +1,7 @@
 # Rapid-Counterpoint-e4473-Connector
 
 ## Release Notes
+
 The following release notes are listed from most recent to oldest order.  Click on the link provided to review each release note.
 
 - [January 14, 2026](Release-Notes/RapidPOS-e4473-2026-01-14-Release-Notes.md)
